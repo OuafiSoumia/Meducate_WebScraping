@@ -8,7 +8,7 @@ This file contains the scraping code that allows you to extract data from online
 
 ```bash
 python main.py -t=10 -s='hopitaux marrakech'
-
+```
 - The -t argument lets you specify the number of data entries you want to extract.
 - The -s argument allows you to set the search query for the data.
 
